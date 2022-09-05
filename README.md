@@ -1,5 +1,4 @@
-# Data-Science-proj---Heart_disease
-Data Science project - Coronary Heart Disease 
+# Data Science project - Coronary Heart Disease 
 
 Data Science – “Using Data Science to Predict Coronary Heart Disease (CHD) and Helping Healthcare Professionals to Make Better Decision on CHD Testing”
 Using the data science methodology of planning analytics, descriptive analytics, diagnostic analytics, predictive analytics and prescriptive analytics, 
